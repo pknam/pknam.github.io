@@ -2,6 +2,9 @@
 * [GitHub](https://github.com/pknam)
 * [BitBucket](https://bitbucket.org/pknam)
 
+## Slides
+* https://www.slideshare.net/pknhacker
+
 ### Projects
 1. https://github.com/ms-wannabe/GangsDrive
 2. https://bitbucket.org/hong921122/illuminator
